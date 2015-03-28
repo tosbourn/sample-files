@@ -1,4 +1,4 @@
-# Test Files
+# Sample Files
 
 This is a small repository of various files you can use for testing various things.
 

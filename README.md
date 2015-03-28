@@ -2,6 +2,10 @@
 
 This is a small repository of various files you can use for testing various things.
 
+I don't know about you, but I always end up needing test files for projects and I always
+used throw-away files, it is about time I had a more consistent approach and a repository
+of files to save time in the future.
+
 # Add your own
 
 You can add your own files to this list by forking the project, including a well named

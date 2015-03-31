@@ -19,3 +19,5 @@ The files can also be reached with a [shared dropbox folder](https://www.dropbox
 
 * Small Open Office Word Document
 * Small PDF File
+* Small XML File (gotten from an old XMLTV dump)
+* Small JPEG image data, JFIF standard 1.01
